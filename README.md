@@ -1,2 +1,2 @@
-# tas-kagit-makas
-Taş Kağıt Makas oyunu
+# Taş Kağıt Makas
+Python ile yapıp paylaştığım ilk projem.
